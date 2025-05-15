@@ -1,0 +1,9 @@
+[package]
+name = "unlocker"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rfd = "0.15.3"
+sysinfo = "0.35.1"
+
